@@ -1,0 +1,67 @@
+# Week 4 Assignment: Time, Parts and Hierarchies
+
+## Student Information
+
+| Field | Details |
+|---|---|
+| **Name** | Ayesha Faisal |
+| **Roll Number** | SU92-BSAIM-F23-107 |
+| **Section** | BSAI-7B |
+| **Course / Week** | Data Visualization, Week 4 |
+
+## Tasks Attempted
+
+Update each status to **Done**, **Partial**, or **Not attempted** based on your actual work. Do not mark a task as Done if it still contains `TODO`.
+
+## Tasks Attempted
+
+| Part | Task | Marks | Status | Notebook |
+|---|---|---:|---|---|
+| A | Rebuild nine charts, then diagnose them | 36 | Done | [part_a.ipynb](part_a.ipynb) |
+| B | Smoothing, windows and panel shape, computed | 15 | Done | [part_b.ipynb](part_b.ipynb) |
+| C | Part-to-whole legality and pie-ranking experiment | 9 | Done | [part_c.ipynb](part_c.ipynb) |
+| D | E-commerce review figure | 25 | Done | [part_d.ipynb](part_d.ipynb) |
+| E | One-page written justification | 15 | Done | [part_e.ipynb](part_e.ipynb) |
+| F | Bonus: Own data, trend vs. seasonal | 5 | Not attempted | — |
+
+## Repository Layout
+
+```text
+week4/
+├── README.md
+├── vizlib.py
+├── tslib.py
+├── data/
+│   └── All 12 CSV files used by the notebooks
+├── part_a.ipynb
+├── part_b.ipynb
+├── part_c.ipynb
+├── part_d.ipynb
+├── part_e.ipynb
+└── figures/
+    └── PNG figures saved by the notebooks (300 DPI)
+```
+
+## Data
+
+All datasets are stored in the `data/` directory. They are synthetic datasets generated using the course seed.
+
+The files include:
+
+- `sessions_hourly.csv`
+- `revenue_catalogue.csv`
+- `shares_eight.csv`
+- `case01_orders_stringdate.csv`
+- `case02` through `case09` datasets, including `case09_premium_share.csv`
+
+The notebooks use these CSV files for chart reconstruction, data analysis, and visualization tasks.
+
+## Notes
+
+- **Part C:** The reader trial is controlled by `RUN_TRIAL` in `part_c.ipynb`. Report results only from an actual reader trial.
+- **Part B:** The trend grid in Question 5 follows the definition stated in the notebook.
+- **Figures:** Generated figures are saved in the `figures/` directory at 300 DPI.
+
+## Part D: E-commerce Review Figure
+
+![Part D Figure](figures/part_d_figure.png)
