@@ -11,14 +11,14 @@
 
 ## Tasks Attempted
 
-| Part | Task | Marks | Status | Notebook |
-|---|---|---:|---|---|
-| A | Rebuild nine charts, then diagnose them | 36 | Done | [part_a.ipynb](part_a.ipynb) |
-| B | Smoothing, windows and panel shape, computed | 15 | Done | [part_b.ipynb](part_b.ipynb) |
-| C | Part-to-whole legality and pie-ranking experiment | 9 | Done | [part_c.ipynb](part_c.ipynb) |
-| D | E-commerce review figure | 25 | Done | [part_d.ipynb](part_d.ipynb) |
-| E | One-page written justification | 15 | Done | [part_e.ipynb](part_e.ipynb) |
-| F | Bonus: Own data, trend vs. seasonal | 5 | Not attempted | — |
+| Part | Task | Status | Notebook |
+|---|---|---|---|
+| A | Rebuild nine charts, then diagnose them | Done | [part_a.ipynb](part_a.ipynb) |
+| B | Smoothing, windows and panel shape, computed | Done | [part_b.ipynb](part_b.ipynb) |
+| C | Part-to-whole legality and pie-ranking experiment | Done | [part_c.ipynb](part_c.ipynb) |
+| D | E-commerce review figure | Done | [part_d.ipynb](part_d.ipynb) |
+| E | One-page written justification | Done | [part_e.ipynb](part_e.ipynb) |
+| F | Bonus: Own data, trend vs. seasonal | Not attempted | — |
 
 ## Repository Layout
 
