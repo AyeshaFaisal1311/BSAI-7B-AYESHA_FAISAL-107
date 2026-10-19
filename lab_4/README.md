@@ -11,10 +11,6 @@
 
 ## Tasks Attempted
 
-Update each status to **Done**, **Partial**, or **Not attempted** based on your actual work. Do not mark a task as Done if it still contains `TODO`.
-
-## Tasks Attempted
-
 | Part | Task | Marks | Status | Notebook |
 |---|---|---:|---|---|
 | A | Rebuild nine charts, then diagnose them | 36 | Done | [part_a.ipynb](part_a.ipynb) |
@@ -56,12 +52,4 @@ The files include:
 
 The notebooks use these CSV files for chart reconstruction, data analysis, and visualization tasks.
 
-## Notes
 
-- **Part C:** The reader trial is controlled by `RUN_TRIAL` in `part_c.ipynb`. Report results only from an actual reader trial.
-- **Part B:** The trend grid in Question 5 follows the definition stated in the notebook.
-- **Figures:** Generated figures are saved in the `figures/` directory at 300 DPI.
-
-## Part D: E-commerce Review Figure
-
-![Part D Figure](figures/part_d_figure.png)
